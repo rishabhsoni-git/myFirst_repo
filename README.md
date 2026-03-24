@@ -1,5 +1,2 @@
 # myFirst_repo
-This is my first repository. <br>
-Now this is my first commit. <br>
-Hello , from Rishabh
-now this is a new line
+Hello, I am Rishabh and this is my first Repository.<br> I am learn github and git commands to perform various operation and develop new skill.
